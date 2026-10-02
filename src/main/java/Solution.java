@@ -62,8 +62,13 @@ public class Solution {
 
     public static void main(String[] args) {
         Solution s = new Solution();
+<<<<<<< HEAD
         System.out.println(s.adjustDigits(253.64));
         //23.01
+=======
+        System.out.println(s.adjustDigits(120.90));
+        //231.01
+>>>>>>> bcd8c1fb35c3f23a8851b11cdd36d2dd008427c5
     }
 
 }
